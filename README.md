@@ -21,6 +21,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+## About Laragigs
+Laragigs is an application with laravel it is like "Linkedin"in the idea as the user can login or sign up and create his Listing which in it he post his jop and his company and tags there is a search bar the user or even the guest can serach on word or tags and the filter will work properly, the author inly who can edit ot delete or create a listing , you can be auther by being only a user (login or signup). 
+
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
